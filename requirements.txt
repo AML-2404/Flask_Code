@@ -1,0 +1,8 @@
+flask
+flask_wtf
+wtforms
+werkzeug
+numpy
+pandas
+tensorflow
+opencv-python-headless
